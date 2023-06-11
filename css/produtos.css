@@ -169,3 +169,7 @@ footer h5{
     max-width: 100%;
     height: auto;
   }
+  .titulo-produto{
+    text-transform: uppercase;
+    margin-top: 20px;
+  }
